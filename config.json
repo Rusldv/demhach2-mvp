@@ -1,0 +1,7 @@
+{
+    "port": "80",
+    "ssl_port": "443",
+    "root_dir": "./www/",
+    "file_404": "./system/404.html",
+    "file_error": "./system/error.html"
+}
