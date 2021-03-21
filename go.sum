@@ -1,0 +1,4 @@
+github.com/rusldv/kit v0.0.0-20210313144429-392f5a06a1f5 h1:AsGEZct/6MgE1ZC2c9N3ngNJNH0UTSl4gxPhzyAymu4=
+github.com/rusldv/kit v0.0.0-20210313144429-392f5a06a1f5/go.mod h1:ZwgcIyzbRZdSJctilGu2WpCn7bjqRQ7BPkLnGGJo2cE=
+github.com/traefik/yaegi v0.9.15 h1:8AboQQiXe7iSVWnrzxFmUUx9FZj1x+ekXPt/UVLrqS4=
+github.com/traefik/yaegi v0.9.15/go.mod h1:FAYnRlZyuVlEkvnkHq3bvJ1lW5be6XuwgLdkYgYG6Lk=
